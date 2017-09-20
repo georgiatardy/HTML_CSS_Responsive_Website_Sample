@@ -26,6 +26,14 @@ ul {
   color: #ffffff;
 }
 
+.dark{
+  padding: 15px;
+  background: #35424a;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /*Header*/
 header {
   background: #35424a;
@@ -136,6 +144,16 @@ aside#sidebar{
   float: right;
   width: 30%;
   margin-top: 10px;
+}
+
+/*Article*/
+article#main-col{
+  float: left;
+  width: 65%;
+}
+
+section#main{
+  padding-right: 200px;
 }
 
 footer {
